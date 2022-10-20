@@ -29,7 +29,7 @@ No qual produzimos aplicativos mobile, web e BI para uso interno facilitando o d
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/5081992" width="100px;" alt="Foto do Diego Lopes"/><br>
         <sub>
-          <b>Diego <br> Lopes </b>
+          <b>Diego Lopes </b>
         </sub>
       </a>
     </td>
