@@ -52,13 +52,5 @@ No qual produzimos aplicativos mobile, web e BI para uso interno facilitando o d
         </a>
     </td>  
     <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/74836529" width="100px;" alt="Foto do João Vitor Santos"/><br>
-        <sub>
-          <b>João Vitor Santos </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
     </td>
   </tr>
