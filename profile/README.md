@@ -18,7 +18,7 @@ No qual produzimos aplicativos mobile, web e BI para uso interno facilitando o d
 <table align="center">
   <tr>
     <td align="center">
-        <a href="#">
+        <a href="https://github.com/RafaMartiins">
             <img src="https://avatars.githubusercontent.com/u/11014197" width="100px;" alt="Foto do Rafael Martins"/><br>
             <sub>
             <b>Rafael Martins</b>
@@ -26,7 +26,7 @@ No qual produzimos aplicativos mobile, web e BI para uso interno facilitando o d
         </a>
     </td>  
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/DCubix">
         <img src="https://avatars.githubusercontent.com/u/5081992" width="100px;" alt="Foto do Diego Lopes"/><br>
         <sub>
           <b>Diego Lopes </b>
@@ -34,7 +34,7 @@ No qual produzimos aplicativos mobile, web e BI para uso interno facilitando o d
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/TakashiNishii">
         <img src="https://avatars.githubusercontent.com/u/49199986" width="100px;" alt="Foto do Ygor Takashi Nishi no GitHub"/><br>
         <sub>
           <b>Ygor Takashi Nishi</b>
@@ -44,7 +44,7 @@ No qual produzimos aplicativos mobile, web e BI para uso interno facilitando o d
   </tr>
   <tr align="center"> 
     <td align="center">
-        <a href="#">
+        <a href="https://github.com/SigmaForce">
             <img src="https://avatars.githubusercontent.com/u/55191033" width="100px;" alt="Foto do Leonardo Lucas"/><br>
             <sub>
             <b>Leonardo Lucas</b>
