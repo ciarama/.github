@@ -52,7 +52,13 @@ No qual produzimos aplicativos mobile, web e BI para uso interno facilitando o d
         </a>
     </td>  
     <td align="center">
-    </td>
+        <a href="https://github.com/EricksonDutra">
+            <img src="https://avatars.githubusercontent.com/u/63134236" width="100px;" alt="Foto do Erickson Dutra"/><br>
+            <sub>
+            <b>Erickson Dutra</b>
+            </sub>
+        </a>
+    </td> 
      <td align="center">
     </td>
   </tr>
