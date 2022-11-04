@@ -60,5 +60,11 @@ No qual produzimos aplicativos mobile, web e BI para uso interno facilitando o d
         </a>
     </td> 
      <td align="center">
+       <a href="https://github.com/jefmoraes">
+            <img src="https://github.com/jefmoraes.png" width="100px;" alt="Foto do Jeferson Moraes"/><br>
+            <sub>
+            <b>Jeferson Moraes</b>
+            </sub>
+        </a>
     </td>
   </tr>
