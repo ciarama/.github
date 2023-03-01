@@ -26,24 +26,6 @@ No qual produzimos aplicativos mobile, web e BI para uso interno facilitando o d
         </a>
     </td>  
     <td align="center">
-      <a href="https://github.com/DCubix">
-        <img src="https://avatars.githubusercontent.com/u/5081992" width="100px;" alt="Foto do Diego Lopes"/><br>
-        <sub>
-          <b>Diego Lopes </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/TakashiNishii">
-        <img src="https://avatars.githubusercontent.com/u/49199986" width="100px;" alt="Foto do Ygor Takashi Nishi no GitHub"/><br>
-        <sub>
-          <b>Ygor Takashi Nishi</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-  <tr align="center"> 
-    <td align="center">
         <a href="https://github.com/SigmaForce">
             <img src="https://avatars.githubusercontent.com/u/55191033" width="100px;" alt="Foto do Leonardo Lucas"/><br>
             <sub>
@@ -58,13 +40,6 @@ No qual produzimos aplicativos mobile, web e BI para uso interno facilitando o d
             <b>Erickson Dutra</b>
             </sub>
         </a>
-    </td> 
-     <td align="center">
-       <a href="https://github.com/jefmoraes">
-            <img src="https://github.com/jefmoraes.png" width="100px;" alt="Foto do Jeferson Moraes"/><br>
-            <sub>
-            <b>Jeferson Moraes</b>
-            </sub>
-        </a>
     </td>
+    
   </tr>
