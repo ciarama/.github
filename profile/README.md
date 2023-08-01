@@ -45,7 +45,7 @@ No qual produzimos aplicativos mobile, web e BI para uso interno facilitando o d
         <a href="https://github.com/jhenelopes">
             <img src="https://avatars.githubusercontent.com/u/110543077?v=4" width="100px;" alt="Foto da Jhenefer"/><br>
             <sub>
-            <b>Erickson Dutra</b>
+            <b>Jhenefer Lopes</b>
             </sub>
         </a>
     </td>
@@ -53,7 +53,7 @@ No qual produzimos aplicativos mobile, web e BI para uso interno facilitando o d
         <a href="https://github.com/hunt5000">
             <img src="https://avatars.githubusercontent.com/u/75794959" width="100px;" alt="Foto do Robson"/><br>
             <sub>
-            <b>Erickson Dutra</b>
+            <b>Robson Benites</b>
             </sub>
         </a>
     </td>
